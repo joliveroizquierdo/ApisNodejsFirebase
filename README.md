@@ -1,2 +1,2 @@
 # AppBasicaGuia
-Api basica en nodejs y mongodb usando es6
+Api basica en nodejs y firebase usando es6
