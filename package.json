@@ -1,0 +1,25 @@
+{
+  "name": "AppBaseGuiaFirebase",
+  "version": "1.0.0",
+  "description": "Api Restfull Ejemplo basico para iniciar un backend en Firebase",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "nodejs",
+    "firebase",
+    "express"
+  ],
+  "author": "Jorge Armando Olivero",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "firebase": "^3.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}

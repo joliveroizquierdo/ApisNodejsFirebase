@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mangas-9325b",
+  "private_key_id": "0e34a00781e86ee979f745e25fc4f3a273c753c6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQChpAEVYWqLXAJo\nsqSPdOSSHjMvd31GLHs1Xs7etumRWPMaK7sexz7nNeFA7oQLfpK3iKODvaUjOHmy\nbc6c4/NOZ0azkIS0bGFXJkVeMyPPtlezNiwR+OKKe2yvcEoARfKgyOWGGRTez6ZG\nosQw8WwBcBuPps70VLKFVXjW2sRvP1WJnFnp0htlPJesAPVe2rzGhaP55MnJ+2WC\nPueJjnNSqZ5NMjpd7uB3+85u53zWggSE+XARc39JL8z34JmxVMzFQM4eWeyv+eQT\n18VlvLlBsZU5jf8mGTU8I0/B0Ve1btB73t89vfN7ucCEQOgqwLgbfrVN1Ntjvbdr\nca+vIpf/AgMBAAECggEAPy6NId9XNyv64RPbERwe8CKP3WD2fcSLUHxDnnie6ap8\nM+GeHdTB+Lxt1OSmhpuuG8F0MN2jPBYqM52KYncTtrTVxQCbbq7iiZ8zBDQ3LkzX\nEPz+0vOXEYxXGmho9Jxiz4hXd0g8iS9fjkK3L25eyl0Y2NjaElU9BrM3LbyLhfP7\nVE2DUJppqZ6ogbl42DLYkBqmW4ZTC0Ig0f7YWYx6/jng7jvoAB1j2bwQF58tcjlx\n+Bzjil/ygGGoWH0t7vV+e19Vg33Jz8Jz4kg9ZPOhXRNELwu+6NDFnrVMz7OrO8qF\nBIGsA+tkVl8TsiJ0GlB6fMHXO0irwfqXpEgml62TSQKBgQDYfiLvL9FXKAGKZnXO\nPvMWhou/L9fKtUC1/O8404G8q9fBb2IuHH0bKRYJTxoyO9WI+1vlsw/a7dWyHWIG\nK2hGdPv/u8CBYSXIum+vWcJ1od/8Nw582QHjnW2tqn45zdbfzyxIXpfP93pU5eob\n7iwtEBn1KOXbZPJ3qJZ36ULHBQKBgQC/I1maEu/JAXUINhBmDl6fb1eyYYiJ5yhk\nWXQnoHxVfTVs0dotxe66ZOnt0gLJBCeg/LNMrVJqKYYCKx2bPyL77UGhIw731EHe\nFSQDuh8oEMcFqhuEDeqN4AlzyrXzqwlETH6eXuuI+0jX7KphQo96fj53UkZC+WyL\ntkRKEo/KMwKBgQDQ+JCICMQtOPSjv1sfhivnJmBmX6wQgvy/rjLLy32DvOw6T2WZ\n1O399Z7LxYsnyhHIc7i09C7tyH1pvGsOQYAZ4noM1BJx0HBEXZHI1P+bxHEMZ6iY\nYnAsYZ2o8NV+vm4XA0dfY89ucxemM3fTFgeWR+CGgL+/EqXpUtZLUOGgcQKBgHqs\nZ3+Zk8hAZSqF+HRn2JcfUPut2YIYmDX/q6sbN3Fu0PEspokmNhfvWKxIU31Ma1rJ\nlRIrU2/LgrS1k2TmWr+yAKM46wxocHXmv5ycwg5m5jVefhZ9EANKvQZSHgFrzqDF\nL6bZaPYbwR7ESH3vyEJn8BOI/ItTpjTtIFsiGqM9AoGAXfmwmdQ7u0aA42LW+9Yp\nI8jyGAmTnk2FxuOhLIhkO4Nb6k1c6Wp6TrginTP1OPWSTnJK3UzpCx+6q21/Wpy8\nw8arPuK5e8hJ4Aq2U9073twp3p9lfDdmSKYd+Y6BX0OgOGHrxdyQ4yBvv2ikV66s\n8ceCGmo3tT+yaO2/k0wEteU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mangasservidor@mangas-9325b.iam.gserviceaccount.com",
+  "client_id": "115764934833260085648",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mangasservidor%40mangas-9325b.iam.gserviceaccount.com"
+}
