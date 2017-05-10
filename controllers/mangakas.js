@@ -7,6 +7,8 @@ const firebase = require('firebase')
 
 const refMangakas = firebase.database().ref().child('mangakas')
 
+var datos = {}
+
 exports.insertarMangakas = (req, res) => {
 
 		let nombreMangaka = req.body.nombre
@@ -33,6 +35,22 @@ exports.insertarMangakas = (req, res) => {
 
 exports.listarMangakas = (req, res) => {
 
-		console.log('listarMangakas')
+	console.log('listartMangakas')
+
+	res.json({datos})
 
 }
+
+		/*const db = firebase.database()
+
+		const refMangakas = db.ref('mangakas')
+
+		const datosRefMangakas = {}
+
+		refMangakas.on('value', (snapshot) => {
+
+			datosRefMangakas = snapshot.val()
+
+			console.log(datosRefmangakas)
+
+		})*/
